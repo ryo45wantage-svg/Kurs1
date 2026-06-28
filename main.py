@@ -77,7 +77,7 @@ def main():
         print("Текст не может быть пустым!")
         return
 
-    group_name = "НЕТОЛОГИЯ-123"  # Замените на название вашей группы
+    group_name = "QAMIDPY-134"
 
     folder_path = f"disk:/{group_name}"
     create_folder(token, group_name)
